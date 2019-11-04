@@ -11,6 +11,7 @@
       I have a background in building and maintaining large scale productions
       applications. I am experienced in designing clean and powerful user
       experiences, creating reliable APIs, and working with cloud infrastructure.
+      Please contact me for additional information and rates.
     </p>
   </div>
 </template>
