@@ -8,7 +8,7 @@
       <b>Toben Software</b> provides a broad range of software contracting and consulting services.
     </p>
     <p>
-      I have a background in building and maintaining large scale productions
+      I have a background in building and maintaining large scale web
       applications. I am experienced in designing clean and powerful user
       experiences, creating reliable APIs, and working with cloud infrastructure.
       Please contact me for additional information and rates.
