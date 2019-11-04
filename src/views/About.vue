@@ -1,5 +1,5 @@
 <template>
-  <div class="about">
+  <div class="about" role="main">
     <p>
       My name is <b>Zach Toben</b>. I'm a software developer located in Des
       Moines, Iowa.

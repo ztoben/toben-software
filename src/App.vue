@@ -4,8 +4,9 @@
       class="header-img"
       src="./assets/toben_software_cropped.png"
       alt="toben-software"
+      role="banner"
     />
-    <div id="nav">
+    <div id="nav" role="navigation">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link> |
       <router-link to="/contact">Contact</router-link>

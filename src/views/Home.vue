@@ -1,11 +1,5 @@
 <template>
-  <div class="home">
+  <div class="home" role="main">
     <p>Contract software development and consulting.</p>
   </div>
 </template>
-
-<script>
-export default {
-  name: "home"
-};
-</script>

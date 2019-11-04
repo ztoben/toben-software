@@ -1,5 +1,5 @@
 <template>
-  <div class="contact">
+  <div class="contact" role="main">
     <p>
       For information on rates and services, please send me an
       <b>
