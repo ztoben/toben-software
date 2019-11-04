@@ -34,6 +34,7 @@
 
   a {
     text-decoration: none;
+    color: #0022b5;
 
     &:visited {
       color: #0022b5;

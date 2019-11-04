@@ -20,7 +20,7 @@
   font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #00b6b9;
+  color: black;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -34,13 +34,13 @@
 }
 
 #nav {
-  padding: 30px;
+  padding-bottom: 30px;
   min-width: 220px;
   text-align: center;
 
   a {
     font-weight: bold;
-    color: #00b6b9;
+    color: black;
 
     &.router-link-exact-active {
       color: #0022b5;
