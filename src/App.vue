@@ -2,7 +2,7 @@
   <div id="app">
     <img
       class="header-img"
-      src="./assets/toben_software_cropped.png"
+      src="./assets/toben_software_logo.svg"
       alt="toben-software"
       role="banner"
     />
@@ -34,7 +34,7 @@
 }
 
 #nav {
-  padding-bottom: 30px;
+  padding: 30px;
   min-width: 220px;
   text-align: center;
 
