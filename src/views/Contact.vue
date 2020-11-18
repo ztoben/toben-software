@@ -15,7 +15,7 @@
       profile for prior work.
     </p>
     <p>
-      You can also take a look at my professional achievements on
+      You can also take a look at my professional accomplishments on
       <b>
         <a href="https://www.linkedin.com/in/zachary-toben-bbab4a84">
           <span>LinkedIn</span>
