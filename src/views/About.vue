@@ -1,7 +1,7 @@
 <template>
   <div class="about" role="main">
     <div class="about-header">
-      <img src="../assets/about.png" alt="about" class="about-img" />
+      <img src="../assets/about.jpg" alt="about" class="about-img" />
       <p class="about-header-text">
         My name is <b>Zach Toben</b>. I'm a software developer located in Des
         Moines, Iowa.
